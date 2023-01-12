@@ -1,0 +1,7 @@
+ru/netology/Book.class
+ru/netology/ProductManager.class
+ru/netology/AlreadyExistsException.class
+ru/netology/Repository.class
+ru/netology/Product.class
+ru/netology/Smartphone.class
+ru/netology/NotFoundException.class

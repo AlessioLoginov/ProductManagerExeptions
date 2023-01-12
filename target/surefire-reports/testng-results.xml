@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-13T00:24:29 MSK" name="Surefire suite" finished-at="2023-01-13T00:24:30 MSK" duration-ms="216">
+    <groups>
+    </groups>
+    <test started-at="2023-01-13T00:24:29 MSK" name="Surefire test" finished-at="2023-01-13T00:24:30 MSK" duration-ms="216">
+      <class name="ru.netology.RepoTest">
+        <test-method signature="testRemoveByIdExists()[pri:0, instance:ru.netology.RepoTest@fe34b86]" started-at="2023-01-13T00:24:29 MSK" name="testRemoveByIdExists" finished-at="2023-01-13T00:24:29 MSK" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveByIdExists -->
+        <test-method signature="testSaveEx()[pri:0, instance:ru.netology.RepoTest@fe34b86]" started-at="2023-01-13T00:24:29 MSK" name="testSaveEx" finished-at="2023-01-13T00:24:29 MSK" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSaveEx -->
+        <test-method signature="testSaveProduct()[pri:0, instance:ru.netology.RepoTest@fe34b86]" started-at="2023-01-13T00:24:29 MSK" name="testSaveProduct" finished-at="2023-01-13T00:24:29 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSaveProduct -->
+        <test-method signature="testViewEx()[pri:0, instance:ru.netology.RepoTest@fe34b86]" started-at="2023-01-13T00:24:29 MSK" name="testViewEx" finished-at="2023-01-13T00:24:29 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewEx -->
+      </class> <!-- ru.netology.RepoTest -->
+      <class name="ru.netology.ProductManagerTest">
+        <test-method signature="shouldSearchByBook()[pri:0, instance:ru.netology.ProductManagerTest@65b73689]" started-at="2023-01-13T00:24:29 MSK" name="shouldSearchByBook" finished-at="2023-01-13T00:24:30 MSK" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchByBook -->
+        <test-method signature="shouldSearchByExist()[pri:0, instance:ru.netology.ProductManagerTest@65b73689]" started-at="2023-01-13T00:24:30 MSK" name="shouldSearchByExist" finished-at="2023-01-13T00:24:30 MSK" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchByExist -->
+        <test-method signature="shouldSearchByExistBook()[pri:0, instance:ru.netology.ProductManagerTest@65b73689]" started-at="2023-01-13T00:24:30 MSK" name="shouldSearchByExistBook" finished-at="2023-01-13T00:24:30 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchByExistBook -->
+        <test-method signature="shouldSearchByExistSmart()[pri:0, instance:ru.netology.ProductManagerTest@65b73689]" started-at="2023-01-13T00:24:30 MSK" name="shouldSearchByExistSmart" finished-at="2023-01-13T00:24:30 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchByExistSmart -->
+        <test-method signature="shouldSearchByNotExist()[pri:0, instance:ru.netology.ProductManagerTest@65b73689]" started-at="2023-01-13T00:24:30 MSK" name="shouldSearchByNotExist" finished-at="2023-01-13T00:24:30 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchByNotExist -->
+        <test-method signature="shouldSearchBySmart()[pri:0, instance:ru.netology.ProductManagerTest@65b73689]" started-at="2023-01-13T00:24:30 MSK" name="shouldSearchBySmart" finished-at="2023-01-13T00:24:30 MSK" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchBySmart -->
+        <test-method signature="shouldSearchByTwoExist()[pri:0, instance:ru.netology.ProductManagerTest@65b73689]" started-at="2023-01-13T00:24:30 MSK" name="shouldSearchByTwoExist" finished-at="2023-01-13T00:24:30 MSK" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSearchByTwoExist -->
+        <test-method signature="testAddProduct()[pri:0, instance:ru.netology.ProductManagerTest@65b73689]" started-at="2023-01-13T00:24:30 MSK" name="testAddProduct" finished-at="2023-01-13T00:24:30 MSK" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddProduct -->
+      </class> <!-- ru.netology.ProductManagerTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
